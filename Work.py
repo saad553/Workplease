@@ -8,5 +8,5 @@ age = int(age)
 # Print a message using the user's information
 print(f"Hello, {name}! You are {age} years old.")
 print(f"Hello, {name}! You are {age} years old.")
-print(f"Hyy, {name}! You are {age} years old.")
+print(f"Hyyy, {name}! You are {age} years old.")
 
